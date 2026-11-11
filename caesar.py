@@ -19,4 +19,4 @@ def decrypt(ciphertext: str, shift: int) -> str:
 
 if __name__ == "__main__":
     print(encrypt("Hello, World!", 3))
-    print(decrypt("Khoor/#Zruog$", 3))
+    print(decrypt("Khфoor/#Zruog$", 3))
